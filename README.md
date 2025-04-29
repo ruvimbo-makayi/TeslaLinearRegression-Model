@@ -62,6 +62,9 @@
     <li><strong>Linear Regression Test MAE:</strong> ~6.49 with Lag 1</li>
     <li>The model was able to <strong>closely follow actual price trends</strong>, especially in short-term predictions.</li>
   </ul>
+  <h3>Linear Regression Model Output</h3>
+   
+   ![image alt](https://github.com/ruvimbo-makayi/TeslaLinearRegression-Model/blob/main/Screenshot%202025-04-29%20132702.png?raw=true)
 
   <h2>Conclusion</h2>
   <p>This project demonstrates that even a simple linear regression model, with thoughtful feature engineering, can produce <strong>strong predictive performance</strong> on stock data.</p>
